@@ -17,7 +17,7 @@
 
 ### 配置后端服务
 后端放在 /src/services。
-以钱包的api为例子，这里新建了一个wallet.ts，然后在同目录下index.ts里加入wallet
+以钱包的api为例子，这里新建了一个wallet.ts
 
 ### 访问后端服务
 这个参照/src/pages/test/wallet/index.tsx, 调用connectWallet
